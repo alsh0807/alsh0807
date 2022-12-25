@@ -5,10 +5,7 @@
 
 
 
-## Language
-![PYTHON](https://img.shields.io/badge/-PYTHON-FFCC33?style=for-the-badge&logo=python&logoWidth=20)
 
-![C#](https://img.shields.io/badge/-C＃-AC1BFF?style=for-the-badge&logo=CSharp#&logoWidth=20)
 
 
 
