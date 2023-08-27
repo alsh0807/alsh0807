@@ -2,7 +2,6 @@
   
 # :clown_face: 신민호 :clown_face:
 
-***
 
 ## :yum: 한번이라도 해본 
 
