@@ -2,12 +2,9 @@
   
 <h3>:clown_face: 신민호 :clown_face:</h3>
 
-
 ***
 
-
-  
-<h3> :yum: 한번이라도 해본</h3>
+<h3> :yum: 한번이라도 해본 </h3>
 <a href="https://developer.apple.com/xcode"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="https://developer.apple.com/swiftui"><img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=Swift&logoColor=blue"/></a>
