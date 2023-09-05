@@ -2,6 +2,10 @@
   
 # :clown_face: 신민호 :clown_face:
 
+
+## :wave: 안녕하세요
+iOS 개발자 신민호입니다!!!
+
 ## :yum: 한번이라도 해본 
 
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
