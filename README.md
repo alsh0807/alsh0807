@@ -1,7 +1,8 @@
 <div align="center">
-  
-# :clown_face: 신민호 :clown_face:
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cruel%20iOS%20Developer&fontSize=90)
+
+# :clown_face: 신민호 :clown_face:
 
 ## :wave: 안녕하세요
 ### iOS 개발자 신민호입니다!!!
