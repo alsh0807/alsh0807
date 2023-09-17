@@ -18,5 +18,9 @@
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/alsh0807)
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage)
 [![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+
+## :abacus: 상세
+[![trophy](https://github-profile-trophy.vercel.app/?username=alsh0807&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark)](https://github.com/alsh0807/github-profile-trophy)
+
   
 </div>
