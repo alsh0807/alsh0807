@@ -20,7 +20,7 @@
 [![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
 
 ## :abacus: 상세
-[![trophy](https://github-profile-trophy.vercel.app/?username=alsh0807&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark)](https://github.com/alsh0807/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alsh0807&theme=onedark)](https://github.com/alsh0807/github-profile-trophy)
 
   
 </div>
