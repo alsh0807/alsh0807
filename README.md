@@ -2,10 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Cruel%20iOS%20Developer&fontSize=90)
 
-# :clown_face: 신민호 :clown_face:
+### :clown_face: 신민호 :clown_face:
+
+</br>
 
 ## :wave: 안녕하세요
 ### iOS 개발자 신민호입니다!!!
+
+</br>
 
 ## :yum: 한번이라도 해본 
 
@@ -19,8 +23,10 @@
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage)
 [![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
 
+</br>
+
 ## :abacus: 상세
-[![trophy](https://github-profile-trophy.vercel.app/?username=alsh0807&theme=onedark)](https://github.com/alsh0807/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alsh0807&theme=onedark)](https://github.com/alsh0807)
 
   
 </div>
